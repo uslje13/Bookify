@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\",
+  "WorkspaceRootPath": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|d:\\courses\\milan jovanovic\\pragmatic clean architecture\\bookify\\solution1\\bookify.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|d:\\courses\\milan jovanovic\\pragmatic clean architecture\\bookify\\bookify\\bookify.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\events\\usercreateddomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|d:\\courses\\milan jovanovic\\pragmatic clean architecture\\bookify\\solution1\\bookify.domain\\apartments\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\apartments\\amenity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|d:\\courses\\milan jovanovic\\pragmatic clean architecture\\bookify\\bookify\\bookify.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|d:\\courses\\milan jovanovic\\pragmatic clean architecture\\bookify\\solution1\\bookify.domain\\apartments\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|d:\\courses\\milan jovanovic\\pragmatic clean architecture\\bookify\\bookify\\bookify.domain\\apartments\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A007F0C-A256-487E-B0B7-FD1E60EDBFB0}|Bookify.Domain\\Bookify.Domain.csproj|solutionrelative:bookify.domain\\apartments\\apartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -27,38 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Entity.cs",
-              "DocumentMoniker": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\Bookify.Domain\\Abstractions\\Entity.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Abstractions\\Entity.cs",
-              "ToolTip": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\Bookify.Domain\\Abstractions\\Entity.cs",
-              "RelativeToolTip": "Bookify.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "UserCreatedDomainEvent.cs",
+              "DocumentMoniker": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "ToolTip": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "RelativeToolTip": "Bookify.Domain\\Users\\Events\\UserCreatedDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:30:05.414Z",
+              "WhenOpened": "2024-09-16T17:33:14.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Amenity.cs",
-              "DocumentMoniker": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\Bookify.Domain\\Apartments\\Amenity.cs",
-              "RelativeDocumentMoniker": "Bookify.Domain\\Apartments\\Amenity.cs",
-              "ToolTip": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\Bookify.Domain\\Apartments\\Amenity.cs",
-              "RelativeToolTip": "Bookify.Domain\\Apartments\\Amenity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\Bookify.Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Bookify.Domain\\Users\\User.cs",
+              "ToolTip": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\Bookify.Domain\\Users\\User.cs*",
+              "RelativeToolTip": "Bookify.Domain\\Users\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:20:32.876Z",
+              "WhenOpened": "2024-09-16T15:44:04.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Apartment.cs",
-              "DocumentMoniker": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\Bookify.Domain\\Apartments\\Apartment.cs",
+              "DocumentMoniker": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\Bookify.Domain\\Apartments\\Apartment.cs",
               "RelativeDocumentMoniker": "Bookify.Domain\\Apartments\\Apartment.cs",
-              "ToolTip": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\Bookify.Domain\\Apartments\\Apartment.cs",
+              "ToolTip": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\Bookify.Domain\\Apartments\\Apartment.cs",
               "RelativeToolTip": "Bookify.Domain\\Apartments\\Apartment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-16T12:03:07.935Z",
               "EditorCaption": ""
