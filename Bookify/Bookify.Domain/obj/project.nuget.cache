@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sihVrboxhvI=",
+  "dgSpecHash": "wRyiz09xbZk=",
   "success": true,
-  "projectFilePath": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Solution1\\Bookify.Domain\\Bookify.Domain.csproj",
+  "projectFilePath": "D:\\Courses\\Milan Jovanovic\\Pragmatic Clean Architecture\\Bookify\\Bookify\\Bookify.Domain\\Bookify.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
