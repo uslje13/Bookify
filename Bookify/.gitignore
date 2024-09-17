@@ -1,0 +1,81 @@
+# Build artifacts
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Database
+*.mdf
+*.ldf
+*.ndf
+
+# NuGet packages
+packages/
+*.nupkg
+# Uncomment if you have NuGet Package Restore enabled for solution
+# *.nuget/packages
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Logs
+*.log
+
+# Azure Web Apps logs
+logs/
+
+# Publish output
+.publish/
+
+# npm debug log
+npm-debug.log*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# JetBrains Rider
+.idea/
+
+# Rider projects
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/dictionary.xml
+.idea/**/description.xml
+.idea/**/contentModel.xml
+.idea/**/libraries
+.idea/**/modules.xml
+.idea/.idea/
+
+# LibMan cache
+.libman/
+
+# Visual Studio Code
+.vscode/
+
+# Application Insights local storage folder
+.iaf/
+
+# Dotnet user settings
+.dotnet_tools/
